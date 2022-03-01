@@ -1,0 +1,54 @@
+
+body{
+    background-color: rgb(89, 148, 128);
+    margin-left: 15%;
+    margin-right:15%;
+    align-items: center;
+    font-family:"Comic Sans MS", Comic Sans;
+
+
+}
+
+h1{
+    color: rgb(58, 58, 54);
+    text-align: center;
+    text-align: top;
+    font-size: 4em;
+
+}
+
+p{
+    color:rgb(58, 58, 54);
+    text-align: center;
+    text-align: bottom;
+    font-size: 25px;
+}
+
+
+img{
+    border-radius: 20%;
+    border:5px solid rgb(209, 203, 186);
+    align-items: right;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a:link, a:visited {
+    background-color: rgb(209, 203, 186);
+    color: rgb(58, 58, 54);
+    border: 2px solid rgb(58, 58, 54);
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+  
+a:hover, a:active {
+    background-color: rgb(58, 58, 54);
+    color: rgb(209, 203, 186);
+}
+
